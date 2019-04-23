@@ -1,10 +1,8 @@
 # ExIP
+External IP lookup script via an API.
 
     .NAME
         ExIP.ps1
-
-    .SYNOPSIS
-        External IP lookup script
 
     .DESCRIPTION
         Lookup external IPv4 and IPv6 addresses from IPInfo.io.
